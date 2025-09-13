@@ -1,0 +1,1 @@
+A simple Java console-based Library Book Inventory System that allows a librarian to manage books, search, and persist data to a file. This project demonstrates OOP, Java collections, and file handling.
